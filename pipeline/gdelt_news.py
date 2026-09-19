@@ -26,7 +26,7 @@ OUTLETS = {  # well-known outlets get pretty names; everything else shows its do
 }
 QUALITY = set(OUTLETS)  # 신뢰 매체 화이트리스트 — 이 도메인의 기사를 우선 채택
 
-UA = {"User-Agent": "Mozilla/5.0 (compatible; BataviaWTL/0.1; +https://ian-sanghyuk-han.github.io/batavia-wtl/)"}
+UA = {"User-Agent": "Mozilla/5.0 (compatible; BataviaWTL/0.1; +https://ian-sanghyuk-han.github.io/batavia-project-wtl/)"}
 RE_PUBTIME = re.compile(
     r'<meta[^>]+(?:property|name)=["\'](?:article:published_time|pubdate|date|dc\.date|parsely-pub-date)["\'][^>]+content=["\']([^"\']+)["\']'
     r'|<meta[^>]+itemprop=["\']datePublished["\'][^>]+content=["\']([^"\']+)["\']'

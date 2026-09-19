@@ -2,7 +2,7 @@
 
 WTL observes how the world's markets are causally connected, registers hypotheses, machine-grades them in public, and publishes the results. No trading, no brokerage links, no profit promises.
 
-- **Live site**: https://ian-sanghyuk-han.github.io/batavia-wtl/
+- **Live site**: https://ian-sanghyuk-han.github.io/batavia-project-wtl/
 - **Source of truth**: [docs/BATAVIA-MASTER-HANDOFF-v2.md](docs/BATAVIA-MASTER-HANDOFF-v2.md)
 - **Session invariants**: [CLAUDE.md](CLAUDE.md)
 

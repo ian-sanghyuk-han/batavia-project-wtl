@@ -10,7 +10,7 @@ import urllib.request
 HERE = os.path.dirname(os.path.abspath(__file__))
 CARD = os.path.join(HERE, "..", "site", "data", "event_card.json")
 OUT = os.path.join(HERE, "..", "site", "data", "briefing.json")
-ARCHIVE = "https://ian-sanghyuk-han.github.io/batavia-wtl/card.html"
+ARCHIVE = "https://ian-sanghyuk-han.github.io/batavia-project-wtl/card.html"
 
 d = json.load(open(CARD, encoding="utf-8"))
 ev, pp = d["event"], d.get("prepricing", {})
