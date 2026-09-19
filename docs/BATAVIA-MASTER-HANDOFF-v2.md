@@ -28,7 +28,7 @@ On the very first session, in order:
 **Batavia Project** (proper noun, used on all artifacts) writes a theory of how the world's markets are causally connected, grades that theory against data in public, and sells the daily usefulness that falls out of it. Three pillars:
 
 - **Theory canon** — `BATAVIA-PROJECT-THEORY-CORE.md` (3rd ed., Korean). Every number on every screen must trace back to a section of the core.
-- **WTL (World Trade Lens)** — the public product. **No trading, no brokerage links, no profit promises.** It only: observes → registers hypotheses → machine-grades them → publishes the results.
+- **WTL (World Trading Live)** — the public product. **No trading, no brokerage links, no profit promises.** It only: observes → registers hypotheses → machine-grades them → publishes the results.
 - **HELM** — the owner's private auto-trading project. **Out of scope.** Keep its code and data fully separated from WTL.
 
 ### 1.1 Structure — one plot, two houses, one warehouse

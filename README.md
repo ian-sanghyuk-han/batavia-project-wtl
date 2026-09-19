@@ -1,4 +1,4 @@
-# Batavia Project — WTL (World Trade Lens)
+# Batavia Project — WTL (World Trading Live)
 
 WTL observes how the world's markets are causally connected, registers hypotheses, machine-grades them in public, and publishes the results. No trading, no brokerage links, no profit promises.
 

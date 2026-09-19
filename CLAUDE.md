@@ -22,7 +22,7 @@ The owner is **not a developer** — deep in financial theory and product vision
 **Batavia Project** writes a theory of how the world's markets are causally connected, grades that theory against data in public, and sells the daily usefulness that falls out of it.
 
 - **Theory canon** — `BATAVIA-PROJECT-THEORY-CORE.md`. Every number on every screen must trace back to a section of the core.
-- **WTL (World Trade Lens)** — the public product. **No trading, no brokerage links, no profit promises.** It only: observes → registers hypotheses → machine-grades them → publishes results.
+- **WTL (World Trading Live)** — the public product. **No trading, no brokerage links, no profit promises.** It only: observes → registers hypotheses → machine-grades them → publishes results.
 - **HELM** — the owner's private auto-trading project. **Out of scope.** Keep its code and data fully separated from WTL.
 
 ### Structure — one plot, two houses, one warehouse (§1.1)
